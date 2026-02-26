@@ -1,7 +1,7 @@
 # CYBERSECURITY HOME LAB
 ## WAZUH
 
-**Post LinkedIn:** <a href="https://www.linkedin.com/in/rafael-salvalagio-ghensev-49671285/recent-activity/all/" target="_blank" rel="noopener noreferrer">Link</a>
+**Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_cybersecurity-soc-socanalyst-activity-7398466207680479232-qflt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" target=" blank" rel="noopener noreferrer"> Link</a>
 
 
 <img width="586" height="267" alt="StolenMount" src="https://github.com/user-attachments/assets/4465dfdb-1b9c-4706-98a2-29cf40ab1794" />
