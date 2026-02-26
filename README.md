@@ -2,4 +2,4 @@
 
 ---
 
-- [`WAZUH.md`](wazuh.md) **WAZUH**
+- [`CYBER_SECURITY_HOME_LABS/WAZUH.md`](CYBER_SECURITY_HOME_LABS/wazuh.md) **WAZUH**
