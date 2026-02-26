@@ -2,6 +2,8 @@
 ## WAZUH
 
 **Post LinkedIn:** https://www.linkedin.com/in/rafael-salvalagio-ghensev-49671285/recent-activity/all/
+<a href="https://www.linkedin.com/in/rafael-salvalagio-ghensev-49671285/recent-activity/all/" target="_blank" rel="noopener noreferrer">**Post LinkedIn**</a>
+
 
 <img width="586" height="267" alt="StolenMount" src="https://github.com/user-attachments/assets/4465dfdb-1b9c-4706-98a2-29cf40ab1794" />
 
