@@ -3,41 +3,28 @@
 
 **Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_cybersecurity-soc-socanalyst-activity-7398466207680479232-qflt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" target="_blank" rel="noopener noreferrer"> Link</a>
 
-
-<img width="586" height="267" alt="StolenMount" src="https://github.com/user-attachments/assets/4465dfdb-1b9c-4706-98a2-29cf40ab1794" />
-
 ---
 
-**Para encontrar a Flag, precisei analisar um PCAP file e descobrir o que um invasor acessou e roubou de um servidor NFS.**
 
+Realizei a instalação do Wazuh e agentes em duas VMs (Kali e Ubuntu) para monitoração de eventos.
 
-🔹Utilizando o Wireshark, segui o TCP Stream, que logo mostra uma Hash MD5:
+Fiz também alguns testes para verificar se os agentes estavam respondendo e reportando corretamente para o Wazuh manager. 
 
-<img width="800" height="800" alt="Hash" src="https://github.com/user-attachments/assets/d7dfbe10-22d2-44c9-b5ff-6ddf0de0221b" />
+Nas imagens é possível ver que o agente está ativo e reportando os eventos de várias tentativas de login sem sucesso, e por último um login bem sucedido, indicando um possível SSH Brute Force Attack. 
+ 
+O que trabalhei nesse projeto inicial:
 
----
+🔹Configuração de um ambiente virtualizado (VirtualBox)
 
-🔹Decifro a Hash usando o site crackstation.net, que me da o resultado: avengers
+🔹Instalação e ajuste do Wazuh Server e agentes
 
-<img width="900" height="900" alt="Senha" src="https://github.com/user-attachments/assets/47cac711-bc97-4b35-b7d2-7961554a18b0" />
+🔹Execução de testes práticos para observar eventos em tempo real
 
----
+🔹Análise inicial dos alertas gerados 
+ 
+Próximo passo: expandir o SOC homelab, aprofundar e testar novos cenários e seguir evoluindo! 
 
-🔹Em seguida aparece um arquivo no pacote 286, copio o hexdump e uso o CyberChef para reconstruir o arquivo:
+<img width="1329" height="454" alt="Agent connected" src="https://github.com/user-attachments/assets/5ddfed84-964c-4108-8931-d602e9a59886" />
 
-<img width="738" height="160" alt="Arquivo" src="https://github.com/user-attachments/assets/19b5c18e-f9fb-4351-903b-afce465f4aba" />
+<img width="1314" height="440" alt="Events" src="https://github.com/user-attachments/assets/22b699f6-3a48-4ee4-9892-6da54a9140db" />
 
-
-<img width="1919" height="616" alt="CyberChef" src="https://github.com/user-attachments/assets/33b0517b-0e31-4278-af1b-e6ad8fb9c605" />
-
----
-
-🔹 Após baixar o arquivo .zip, ele pede uma senha. Uso a senha avengers fornecida anteriormente e consigo descompactar:
-
-<img width="487" height="370" alt="Senha arquivo" src="https://github.com/user-attachments/assets/0fc513ed-1a3c-42f7-8c7b-74c86003d684" />
-
----
-
-🔹 Dentro tem um QRcode, abro usando um leitor online e finalmente trazer a Flag:
-
-<img width="1404" height="629" alt="Flag" src="https://github.com/user-attachments/assets/3512caf7-5e83-42df-9611-7721208f92e9" />
