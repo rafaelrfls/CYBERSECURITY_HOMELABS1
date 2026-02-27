@@ -1,5 +1,5 @@
 # CYBERSECURITY HOME LAB
-## WAZUH
+## WAZUH INSTALL
 
 **Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_cybersecurity-soc-socanalyst-activity-7398466207680479232-qflt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" target="_blank" rel="noopener noreferrer"> Link</a>
 
