@@ -3,6 +3,8 @@
 
 **Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_cybersecurity-soc-socanalyst-activity-7426335324483690496-CZPF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" target="_blank" rel="noopener noreferrer"> Link</a>
 
+<img width="600" height="578" alt="script" src="https://github.com/user-attachments/assets/eb0e3d83-ee19-499d-8ae9-5558802c7304" />
+
 ---
 
 Script para consulta de IPs utilizando a API do VirusTotal. 
