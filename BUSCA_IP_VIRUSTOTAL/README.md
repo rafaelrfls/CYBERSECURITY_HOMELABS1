@@ -27,6 +27,3 @@ Com esse script aprendi:
 - Consumo de API REST via Bash 
 - Uso de curl e jq para parsing de JSON 
 - Automação aplicada ao SOC N1 
- 
-
-🔹Configuração de um ambiente virtualizado (VirtualBox)
