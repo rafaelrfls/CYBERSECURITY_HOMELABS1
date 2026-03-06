@@ -5,3 +5,5 @@
 - [`WAZUH/WAZUH_INSTALL.md`](WAZUH/WAZUH_INSTALL.md) - **WAZUH INSTALL** - Instalação do Wazuh e agentes para monitoração de eventos.
 
 - [`BUSCA_IP_VIRUSTOTAL`](BUSCA_IP_VIRUSTOTAL) - **SCRIPT PESQUISA IP - VIRUSTOTAL** - Criação de Script para automatizar pesquisa de IP no Virus Total.
+
+- [`WIRESHARK/HTTP_PCAP_ANALYSIS.md`](WIRESHARK/HTTP_PCAP_ANALYSIS.md) - **WIRESHARK - HTTP PCAP ANALYSIS** - Análise de pacotes de rede de um site HTTP.
